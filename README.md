@@ -41,7 +41,7 @@ portfolio/
 ├── index.html
 │
 ├── css/
-│   └── style.css
+│   └── design.css
 │
 ├── js/
 │   └── script.js
